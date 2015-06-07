@@ -1,0 +1,3 @@
+[submodule "control-of-mobile-robots/simiam"]
+	path = control-of-mobile-robots/simiam
+	url = git@github.com:jdelacroix/simiam.git
